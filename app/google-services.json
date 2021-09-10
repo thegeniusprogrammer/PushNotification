@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199167362490",
+    "project_id": "push-notification-2bf0b",
+    "storage_bucket": "push-notification-2bf0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199167362490:android:a7b5e95aa9984aa4908983",
+        "android_client_info": {
+          "package_name": "com.thegeniusprogrammer.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199167362490-e9tcv726rs8ibuddvg2bfug8vq2vehtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3xE6D6QrHxr5CKRM8R5q7N5yNDlUvLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199167362490-e9tcv726rs8ibuddvg2bfug8vq2vehtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
